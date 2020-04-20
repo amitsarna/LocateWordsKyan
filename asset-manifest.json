@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LocateWordsKyan/static/css/main.0b2af4ec.chunk.css",
-    "main.js": "/LocateWordsKyan/static/js/main.bcae5600.chunk.js",
-    "main.js.map": "/LocateWordsKyan/static/js/main.bcae5600.chunk.js.map",
+    "main.js": "/LocateWordsKyan/static/js/main.c58ed948.chunk.js",
+    "main.js.map": "/LocateWordsKyan/static/js/main.c58ed948.chunk.js.map",
     "runtime-main.js": "/LocateWordsKyan/static/js/runtime-main.5856de18.js",
     "runtime-main.js.map": "/LocateWordsKyan/static/js/runtime-main.5856de18.js.map",
     "static/js/2.33d77491.chunk.js": "/LocateWordsKyan/static/js/2.33d77491.chunk.js",
     "static/js/2.33d77491.chunk.js.map": "/LocateWordsKyan/static/js/2.33d77491.chunk.js.map",
     "index.html": "/LocateWordsKyan/index.html",
-    "precache-manifest.591eb434a9829a62677b6084d3efca8e.js": "/LocateWordsKyan/precache-manifest.591eb434a9829a62677b6084d3efca8e.js",
+    "precache-manifest.112b028292a5f56e0b41f20e1b1e8595.js": "/LocateWordsKyan/precache-manifest.112b028292a5f56e0b41f20e1b1e8595.js",
     "service-worker.js": "/LocateWordsKyan/service-worker.js",
     "static/css/main.0b2af4ec.chunk.css.map": "/LocateWordsKyan/static/css/main.0b2af4ec.chunk.css.map",
     "static/js/2.33d77491.chunk.js.LICENSE.txt": "/LocateWordsKyan/static/js/2.33d77491.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5856de18.js",
     "static/js/2.33d77491.chunk.js",
     "static/css/main.0b2af4ec.chunk.css",
-    "static/js/main.bcae5600.chunk.js"
+    "static/js/main.c58ed948.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "959a55cd6c423e712d34e0a1dba921b8",
+    "revision": "6f0a0cb5165a44a7521864c5ec2d1e10",
     "url": "/LocateWordsKyan/index.html"
   },
   {
-    "revision": "e9540d719683d5dedadc",
+    "revision": "e236988aebc2431de19b",
     "url": "/LocateWordsKyan/static/css/main.0b2af4ec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LocateWordsKyan/static/js/2.33d77491.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9540d719683d5dedadc",
-    "url": "/LocateWordsKyan/static/js/main.bcae5600.chunk.js"
+    "revision": "e236988aebc2431de19b",
+    "url": "/LocateWordsKyan/static/js/main.c58ed948.chunk.js"
   },
   {
     "revision": "a00154e79909c54cfa02",
