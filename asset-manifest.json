@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LocateWordsKyan/static/css/main.67349b55.chunk.css",
-    "main.js": "/LocateWordsKyan/static/js/main.6701273e.chunk.js",
-    "main.js.map": "/LocateWordsKyan/static/js/main.6701273e.chunk.js.map",
+    "main.css": "/LocateWordsKyan/static/css/main.d8effc66.chunk.css",
+    "main.js": "/LocateWordsKyan/static/js/main.1b2936be.chunk.js",
+    "main.js.map": "/LocateWordsKyan/static/js/main.1b2936be.chunk.js.map",
     "runtime-main.js": "/LocateWordsKyan/static/js/runtime-main.5856de18.js",
     "runtime-main.js.map": "/LocateWordsKyan/static/js/runtime-main.5856de18.js.map",
     "static/js/2.33d77491.chunk.js": "/LocateWordsKyan/static/js/2.33d77491.chunk.js",
     "static/js/2.33d77491.chunk.js.map": "/LocateWordsKyan/static/js/2.33d77491.chunk.js.map",
     "index.html": "/LocateWordsKyan/index.html",
-    "precache-manifest.33a3452a8dfdda08884e695541a940ce.js": "/LocateWordsKyan/precache-manifest.33a3452a8dfdda08884e695541a940ce.js",
+    "precache-manifest.ec8c68d54bee799ae8a32887622da1a8.js": "/LocateWordsKyan/precache-manifest.ec8c68d54bee799ae8a32887622da1a8.js",
     "service-worker.js": "/LocateWordsKyan/service-worker.js",
-    "static/css/main.67349b55.chunk.css.map": "/LocateWordsKyan/static/css/main.67349b55.chunk.css.map",
+    "static/css/main.d8effc66.chunk.css.map": "/LocateWordsKyan/static/css/main.d8effc66.chunk.css.map",
     "static/js/2.33d77491.chunk.js.LICENSE.txt": "/LocateWordsKyan/static/js/2.33d77491.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5856de18.js",
     "static/js/2.33d77491.chunk.js",
-    "static/css/main.67349b55.chunk.css",
-    "static/js/main.6701273e.chunk.js"
+    "static/css/main.d8effc66.chunk.css",
+    "static/js/main.1b2936be.chunk.js"
   ]
 }
