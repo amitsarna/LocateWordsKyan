@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LocateWordsKyan/precache-manifest.119ccd029a9e808803ac37765b28fbb4.js"
+  "/LocateWordsKyan/precache-manifest.2082e21636b10752c5552fd9b350863c.js"
 );
 
 self.addEventListener('message', (event) => {
